@@ -19,14 +19,21 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FFFF00?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black"/>
 -->
 
+### Testing Documentation
+<!---
+Доработать
+![Checklists](Checklists)
+![Test-Suites and Test-Cases](Test-Suites and Test-Cases)
+![Bug-Reports](Bug-Reports)
+![SQL Queries](SQL Queries)
+![Postman Collections](Postman Collections)
+-->
+
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/hso372)
 
 [![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
+Доработать
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKhokhryakov&repo=github-readme-stats&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
-
-
