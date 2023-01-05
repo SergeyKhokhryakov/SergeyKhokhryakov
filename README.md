@@ -13,8 +13,9 @@
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![SoapUI](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui&logoColor=FF6C37)
 ![Charles](https://img.shields.io/badge/-charles-black?style=for-the-badge&logo=charles&logoColor=FF6C37)
-![Swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger&logoColor=Lime)
 <!---
+![Swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger&logoColor=Lime)
+
 <img src="https://img.shields.io/badge/Selenium-E0FFFF?style=for-the-badge&logo=Selenium&logoColor=43B02A"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FFFF00?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black"/>
 -->
