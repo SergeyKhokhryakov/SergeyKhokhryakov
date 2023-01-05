@@ -1,6 +1,6 @@
 [![Header](https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/assets/header.jpeg)]()
 
-## I'm a junior QA
+## I'm a QA engineer (junior)
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=FF4500)
