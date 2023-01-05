@@ -1,7 +1,9 @@
 [![Header](https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/assets/header.jpeg)]()
 
 ## I'm a Trainee QA engineer
-
+<!---
+## My CV
+-->
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=FF4500)
 ![GitHub](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=ADD8E6)
@@ -22,12 +24,13 @@
 
 ### Testing Documentation
 <!---
-Доработать
-![Checklists](Checklists)
-![Test-Suites and Test-Cases](Test-Suites and Test-Cases)
-![Bug-Reports](Bug-Reports)
-![SQL Queries](SQL Queries)
-![Postman Collections](Postman Collections)
+Доработать репозитории
+- [Checklists](https://github.com/SergeyKhokhryakov/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/SergeyKhokhryav/Test-Cases)
+- [Bug-Reports](https://github.com/SergeyKhokhryav/Bug-Reports)
+- [SQL Queries](https://github.com/SergeyKhokhryav/SQL)
+- [Postman Collections](https://github.com/SergeyKhokhryav/Postman)
+
 -->
 
 ### Follow me
@@ -35,6 +38,6 @@
 
 [![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
-Доработать
+Доработать/разобраться
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKhokhryakov&repo=github-readme-stats&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 -->
