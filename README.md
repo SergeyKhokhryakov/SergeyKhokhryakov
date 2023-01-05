@@ -22,9 +22,10 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/hso372)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SergeyKhokhryakov&repo=github-readme-stats&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
