@@ -7,12 +7,12 @@
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=FF4500)
 ![GitHub](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=ADD8E6)
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-sql-black?style=for-the-badge&logo=mysql&logoColor=white)
-![JIRA](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=00648B)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail&logoColor=00648B)
 ![DevTools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools&logoColor=00648B)
-![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui&logoColor=FF6C37)
 ![Charles](https://img.shields.io/badge/-charles-black?style=for-the-badge&logo=charles&logoColor=FF6C37)
 <!---
