@@ -14,7 +14,9 @@
 ![DevTools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools&logoColor=00648B)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui&logoColor=FF6C37)
-![Charles](https://img.shields.io/badge/-charles-black?style=for-the-badge&logo=charles&logoColor=FF6C37)
+<!--- ![Charles](https://img.shields.io/badge/-charles-black?style=for-the-badge&logo=charles&logoColor=FF6C37) -->
+![Selenium](https://img.shields.io/badge/Selenium-E0FFFF?style=for-the-badge&logo=Selenium&logoColor=43B02A)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FFFF00?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=black)
 <!---
 ![Swagger](https://img.shields.io/badge/-swagger-black?style=for-the-badge&logo=swagger&logoColor=Lime)
 
