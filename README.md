@@ -1,6 +1,6 @@
 [![Header](https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/assets/header.jpeg)]()
 
-## I'm a Trainee QA engineer
+## I'm a QA engineer
 <!---
 ## My CV
 -->
