@@ -5,23 +5,30 @@
 ## My CV
 -->
 ### Languages and Tools
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Java" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/java-svgrepo-com.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="cplusplus" width="45" height="45"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="cplusplus" width="50" height="45"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" alt="cplusplus" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  </a> 
+<img title="GitHub" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/git-original.svg" width="50" height="50"/>
+<img title="Java" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/java-svgrepo-com.svg" width="50" height="50"/>
+<img title="IntelliJ IDEA" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Idea.svg" width="50" height="50"/>
+<img title="Junit5" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Junit5.svg" width="50" height="50"/>
+<img title="Selenium" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/selenium-original.svg" width="50" height="50"/>
+<img title="Selenide" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenide.svg" width="50" height="50"/>
+<img title="Allure" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="50" height="50"/>
+<img title="Docker" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/docker-original.svg" width="50" height="50"/>
+<img title="Jenkins" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jenkins.svg" width="50" height="50"/>
+<img title="Selenoid" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenoid.svg" width="50" height="50"/>
+<img title="Allure Testops" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure_TO.svg" width="50" height="50"/>
+<img title="Jira" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jira.svg" width="50" height="50"/>
+<img title="PostgreSQL" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postgresql-logo-svgrepo-com.svg" width="50" height="50"/>
+<img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" width="50" height="50"/>
 
 ![TestRail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail&logoColor=00648B)
 ![DevTools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools&logoColor=00648B)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui&logoColor=FF6C37)
 
 
 <!---
+Исходники icons
+https://github.com/devicons/devicon/tree/v2.15.1/icons
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=FF4500)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -42,6 +49,7 @@
  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 <img src="https://img.shields.io/badge/Selenium-E0FFFF?style=for-the-badge&logo=Selenium&logoColor=43B02A"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FFFF00?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black"/>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Java" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/java-svgrepo-com.svg" alt="cplusplus" width="50" height="50"/> </a>
 -->
 
 ### Testing Documentation
@@ -56,7 +64,8 @@
 -->
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/hso372)
+<a href="https://t.me/hso372" target="blank"><img align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Telegram.svg" height="50" width="50"/>
+<a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/whatsapp-svgrepo-com.svg" height="50" width="50"/>
 
 [![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
