@@ -17,7 +17,7 @@
 <img title="Gradle" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Gradle.svg" width="60" height="60"/>
 <img title="Maven" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/maven.svg" width="60" height="60"/>
 <img title="Junit5" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Junit5.svg" width="55" height="55"/>
-<img title="Selenium" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/selenium-original.svg" width="50" height="50"/>
+<img title="Selenium" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/selenium-green.svg" width="50" height="50"/>
 <img title="Selenide" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenide.svg" width="60" height="60"/>
 <img title="Allure Report" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="60" height="60"/>
 <img title="Docker" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/docker-original.svg" width="60" height="60"/>
