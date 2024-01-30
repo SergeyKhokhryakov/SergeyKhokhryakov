@@ -4,22 +4,30 @@
 <!---
 ## My CV
 -->
-### Languages and Tools
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  </a> 
+### Languages:
+<p align="left">
+<img title="Java" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/java-svgrepo-com.svg" width="60" height="60"/>
+<img title="SQL" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/sql.svg" width="50" height="50"/>
+</p>
+
+### Tools:
+<p align="left">
 <img title="GitHub" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/git-original.svg" width="50" height="50"/>
-<img title="Java" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/java-svgrepo-com.svg" width="50" height="50"/>
-<img title="IntelliJ IDEA" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Idea.svg" width="50" height="50"/>
-<img title="Junit5" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Junit5.svg" width="50" height="50"/>
+<img title="IntelliJ IDEA" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Idea.svg" width="60" height="60"/>
+<img title="Gradle" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Gradle.svg" width="60" height="60"/>
+<img title="Maven" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/maven.svg" width="60" height="60"/>
+<img title="Junit5" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Junit5.svg" width="55" height="55"/>
 <img title="Selenium" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/selenium-original.svg" width="50" height="50"/>
-<img title="Selenide" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenide.svg" width="50" height="50"/>
-<img title="Allure Report" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="50" height="50"/>
-<img title="Docker" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/docker-original.svg" width="50" height="50"/>
-<img title="Jenkins" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jenkins.svg" width="50" height="50"/>
-<img title="Selenoid" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenoid.svg" width="50" height="50"/>
-<img title="Allure Testops" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure_TO.svg" width="50" height="50"/>
-<img title="Jira" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jira.svg" width="50" height="50"/>
-<img title="PostgreSQL" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postgresql-logo-svgrepo-com.svg" width="50" height="50"/>
-<img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" width="50" height="50"/>
+<img title="Selenide" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenide.svg" width="60" height="60"/>
+<img title="Allure Report" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="60" height="60"/>
+<img title="Docker" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/docker-original.svg" width="60" height="60"/>
+<img title="Jenkins" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jenkins.svg" width="60" height="60"/>
+<img title="Selenoid" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenoid.svg" width="60" height="60"/>
+<img title="Allure Testops" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure_TO.svg" width="60" height="60"/>
+<img title="Jira" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jira.svg" width="60" height="60"/>
+<img title="PostgreSQL" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postgresql-logo-svgrepo-com.svg" width="55" height="55"/>
+<img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" width="55" height="55"/>
+</p>
 
 ![TestRail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail&logoColor=00648B)
 ![DevTools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools&logoColor=00648B)
@@ -64,8 +72,8 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons
 -->
 
 ### Follow me
-<a href="https://t.me/hso372" target="blank"><img title="Telegram" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Telegram.svg" height="50" width="50"/>
-<a href="https://web.whatsapp.com/" target="blank"><img title="WhatsApp" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/whatsapp-svgrepo-com.svg" height="50" width="50"/>
+<a href="https://t.me/hso372" target="blank"><img title="Telegram" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Telegram.svg" height="60" width="60"/>
+<a href="https://web.whatsapp.com/" target="blank"><img title="WhatsApp" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/whatsapp-svgrepo-com.svg" height="48" width="48"/>
 
 [![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
