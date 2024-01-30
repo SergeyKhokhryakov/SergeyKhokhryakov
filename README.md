@@ -12,7 +12,7 @@
 <img title="Junit5" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Junit5.svg" width="50" height="50"/>
 <img title="Selenium" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/selenium-original.svg" width="50" height="50"/>
 <img title="Selenide" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenide.svg" width="50" height="50"/>
-<img title="Allure" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="50" height="50"/>
+<img title="Allure Report" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Allure.svg" width="50" height="50"/>
 <img title="Docker" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/docker-original.svg" width="50" height="50"/>
 <img title="Jenkins" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jenkins.svg" width="50" height="50"/>
 <img title="Selenoid" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Selenoid.svg" width="50" height="50"/>
