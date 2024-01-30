@@ -13,6 +13,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="cplusplus" width="45" height="45"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="cplusplus" width="50" height="45"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" alt="cplusplus" width="50" height="50"/> </a> 
 
 ![TestRail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail&logoColor=00648B)
 ![DevTools](https://img.shields.io/badge/-devtools-black?style=for-the-badge&logo=devtools&logoColor=00648B)
