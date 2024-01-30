@@ -64,8 +64,8 @@ https://github.com/devicons/devicon/tree/v2.15.1/icons
 -->
 
 ### Follow me
-<a href="https://t.me/hso372" target="blank"><img align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Telegram.svg" height="50" width="50"/>
-<a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/whatsapp-svgrepo-com.svg" height="50" width="50"/>
+<a href="https://t.me/hso372" target="blank"><img title="Telegram" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Telegram.svg" height="50" width="50"/>
+<a href="https://web.whatsapp.com/" target="blank"><img title="WhatsApp" align="center" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/whatsapp-svgrepo-com.svg" height="50" width="50"/>
 
 [![SergeyKhokhryakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKhokhryakov&show_icons=true&theme=cobalt&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!---
