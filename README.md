@@ -27,7 +27,8 @@
 <img title="Jira" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Jira.svg" width="60" height="60"/>
 <img title="PostgreSQL" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postgresql-logo-svgrepo-com.svg" width="55" height="55"/>
 <img title="Postman" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/postman-icon-svgrepo-com.svg" width="55" height="55"/>
- <img title="JavaFX" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/javafx-%23FF0000.svg" width="55" height="55"/>
+<img title="JavaFX" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/javafx-892735.webp" width="170" height="150"/>
+<img title="SQLite" src="https://github.com/SergeyKhokhryakov/SergeyKhokhryakov/blob/main/icons/Sqlite%20SVG%20Icon.svg" width="60" height="60"/>
 </p>
 
 ![TestRail](https://img.shields.io/badge/-testrail-black?style=for-the-badge&logo=testrail&logoColor=00648B)
